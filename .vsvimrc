@@ -1,0 +1,4 @@
+map gd :vsc ReSharper.ReSharper_GotoDeclaration<CR>
+map <Space>h :vsc View.NavigateBackward<CR>
+map <Space>l :vsc View.NavigateForward<CR>
+map <Space>cc :vsc EditorContextMenus.FileHealthIndicator.RunDefaultCodeCleanup<CR>

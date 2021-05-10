@@ -1,1 +1,1 @@
-# vs-vimrc
+# Custom .vsvimrc file for Visual Studio extension [VsVim](https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim).
